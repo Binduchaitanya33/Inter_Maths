@@ -1,4 +1,4 @@
-# 📐 The Philosophy of Straight Lines: Why One Variable "Disappears"
+# The Philosophy of Straight Lines: Why One Variable "Disappears"
 
 
 In algebra, we are used to seeing equations where **x** and **y** depend on each other, like `y = 2x + 1`. In those cases, if you move right (x changes), you *must* move up or down (y changes).
@@ -61,7 +61,7 @@ Now, imagine Dumbo is at `(2, 4)` but decides to climb a ladder straight up or s
 > *"This line is tall. It goes up and down. So why is there no y in the equation?"*
 
 
-###  The Deep Answer:
+###  The Answer:
 Again, look at the freedom vs. the restriction.
 
 
@@ -119,7 +119,7 @@ Here is the complete teacher narrative in clean, professional Markdown. I have u
 -----
 
 
-# 📐 Unlocking the Equation of a Line: A Teacher's Narrative
+# Unlocking the Equation of a Line: A Teacher's Narrative
 
 
 Mathematics becomes powerful when algebra and geometry support each other.
@@ -333,7 +333,7 @@ This is the universal algebraic identity of a straight line.
 -----
 
 
-## Final Teacher Summary
+## Final Summary
 
 
 A line in the plane must be uniquely identified, just as a person must be uniquely identified.
