@@ -1,4 +1,4 @@
-# Lecture: Random Experiments, Sample Space, Events, and Algebra of Events
+# 14.1 Random Experiments, Sample Space, Events, and Algebra of Events
 
 ## 1. Introduction: Why do we need probability at all?
 
